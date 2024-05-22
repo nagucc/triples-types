@@ -1,0 +1,12 @@
+{
+  "name": "nagu-triples-types",
+  "version": "1.0.2",
+  "description": "应用于triples的types",
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
